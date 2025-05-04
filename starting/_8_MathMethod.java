@@ -30,8 +30,8 @@ public class _8_MathMethod {
         System.out.println(Math.round(5.6));
         System.out.println(Math.ceil(5.6));
         System.out.println(Math.ceil(-5.6));
-        System.out.println(Math.floor(5.6));
-        System.out.println(Math.floor(-5.6));
+        System.out.println(Math.floor(5.6)); // 5
+        System.out.println(Math.floor(-5.6)); // 6
 
         double random = 5 + Math.random() * (10 - 5);
         System.out.println("Random number between 5 and 10: " + random);
