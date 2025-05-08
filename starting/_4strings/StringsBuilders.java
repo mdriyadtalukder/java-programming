@@ -2,6 +2,12 @@ public class StringsBuilders {
     public static void main(String[] args) {
 
         // total 3 methods
+
+        /*
+         * 1.add
+         * 2.remove
+         * 3.reverse
+         */
         StringBuffer s = new StringBuffer("Ami");
         System.out.println(s.append(" Riyad"));
         System.out.println(s.append(122));

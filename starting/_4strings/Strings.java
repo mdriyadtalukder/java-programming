@@ -1,8 +1,33 @@
 public class Strings {
     public static void main(String[] args) {
 
-
         // total 21 methods
+
+        /*
+         * 1.length checking
+         * 2.kisu part print kora string er.
+         * 3.kisu part print kora string er with indexing
+         * 4. kono words ase nki string er vitor ta checking
+         * 5. ki diye string suru hyse ta checking
+         * 6. ki diye string sesh hyse ta checking
+         * 7. 2 ta string same nki checking
+         * 8. 2 ta string same nki checking with ignoring case
+         * 9. string er word er index checking
+         * 10. string er word er index checking with indexing
+         * 11. string er ekta word er last index checking
+         * 12. string er ekta word er last index checking with indexing
+         * 13. 2 ta string jog kora
+         * 14. ekta character er index checking
+         * 15. ekta index er ascii value deoya
+         * 16. empty nki check kora string ta
+         * 17. lowercase e convert
+         * 18. upper case e convert
+         * 19. 2 pasher space rmv kora
+         * 20. ekta word change kora onno word diye replace kore..
+         * 21. string k array te convert with ekta chinho diye..
+         * 
+         */
+
         String s = "Amiriyad";
         String ss = "Amiriyad";
         String sss = "amiriyad";
@@ -41,8 +66,6 @@ public class Strings {
         for (String i : q) {
             System.out.println(i);
         }
-
-
 
     }
 }

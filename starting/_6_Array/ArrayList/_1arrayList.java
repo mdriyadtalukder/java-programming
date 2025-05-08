@@ -8,6 +8,27 @@ public class _1arrayList {
 
         // total 17
 
+        /*
+         * 1. adding
+         * 2. adding with index num
+         * 3.add all elem to another arrayList
+         * 4. iterator
+         * 5. each loop
+         * 6.value modify
+         * 7.getting value
+         * 8.length ba size check
+         * 9. remove with a index.
+         * 10. remove all
+         * 11. sob value clear kra.
+         * 12. empty nki ta check
+         * 13. kono value ase nki ta check kora..
+         * 14. ekta elem er index check
+         * 15.sort kora
+         * 16. sort ta reverse kora
+         * 17. equal check kora
+         * 
+         */
+
         // adding
         st.add("keya");
         st.add(1, "riya");
