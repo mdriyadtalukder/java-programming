@@ -1,6 +1,7 @@
 public class Strings {
     public static void main(String[] args) {
 
+
         // total 21 methods
         String s = "Amiriyad";
         String ss = "Amiriyad";

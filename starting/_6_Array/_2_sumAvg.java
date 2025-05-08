@@ -13,6 +13,7 @@ public class _2_sumAvg {
             sum = sum + arr[i];
         }
         System.out.println(sum);
+        System.out.println(sum / arr.length);
 
     }
 }
