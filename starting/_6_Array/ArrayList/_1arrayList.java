@@ -16,7 +16,7 @@ public class _1arrayList {
          * 5. each loop
          * 6.value modify
          * 7.getting value
-         * 8.length ba size check
+         * 8.length check
          * 9. remove with a index.
          * 10. remove all
          * 11. sob value clear kra.
