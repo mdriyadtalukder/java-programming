@@ -15,7 +15,7 @@ public class StringsBuilders {
          */
         StringBuilder s = new StringBuilder("Ami");
         System.out.println(s.append(" Riyad"));
-        s.setCharAt(0, 't');
+        s.setCharAt(0, 't'); //A ta t hbe..
         System.out.println(s.append(122));
         System.out.println(s.append(134.5555));
         System.out.println(s.reverse());
