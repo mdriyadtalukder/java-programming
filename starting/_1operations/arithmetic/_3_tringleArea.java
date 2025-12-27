@@ -7,6 +7,5 @@ public class _3_tringleArea {
         area=sc.nextFloat();
         System.out.println(0.5*base*area);
 
-
     }
 }

@@ -10,6 +10,7 @@ public class _3_FormatSpecifier {
 
         char c='y';
         boolean bo=true;
+        String st="hhb";
 
         System.out.printf("byte: %d",b);
         System.out.printf("short: %d",s);
@@ -21,5 +22,6 @@ public class _3_FormatSpecifier {
 
         System.out.printf("char: %c\n",c);
         System.out.printf("boolean: %b",bo);
+        System.out.print("ami"+f+"hj"+st+"");
     }
 }
